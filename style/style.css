@@ -16,5 +16,24 @@ html::before {  /*dark overlay add korar jonno*/
 }
 
 body{
-    color: white;
+    color: aqua;
+}
+
+.keys{
+    display: flex;
+    height: 95vh; 
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+
+.key{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: #232b2b;
+    
+    
 }
